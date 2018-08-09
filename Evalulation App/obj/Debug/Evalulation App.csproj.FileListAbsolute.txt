@@ -1,0 +1,31 @@
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\Evalulation App.exe.config
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\Evalulation App.exe
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\Evalulation App.pdb
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.csprojAssemblyReference.cache
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Form1.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Properties.Resources.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.csproj.GenerateResource.cache
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.csproj.CoreCompileInputs.cache
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.exe
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.pdb
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Selection.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.CashFlow.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Chart.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\Evalulation App.exe.manifest
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\Evalulation App.application
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.exe.manifest
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.application
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Advanced.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\EntityFramework.dll
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\EntityFramework.xml
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation App.csproj.CopyComplete
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Options.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Finder.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Update.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.Loading.resources
+C:\Users\lonca\OneDrive\Desktop\Evalulation App\Evalulation App\obj\Debug\Evalulation_App.AllData.resources
